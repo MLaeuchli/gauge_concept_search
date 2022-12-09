@@ -1,0 +1,5 @@
+# Search <term> on Wikipedia
+
+* Go to "https://en.wikipedia.org/wiki/Main_Page"
+* Write <term> into "input[name='search']"
+* Press "Enter"
